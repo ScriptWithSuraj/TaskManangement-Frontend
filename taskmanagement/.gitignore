@@ -1,0 +1,48 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+  ../../AdminUIReact/
+        ../../FRONTENDINT/
+        ../../JAVA SCRIPT DSA/
+        ../../LSQUARE/
+        ../../Practice/
+        ../../React Practice/
+        ../../TaskManagement-Backend/
+        ../../XflixReact/
+        ../../adminui.zip
+        ../../adminui/
+        ../../backup/
+        ../../coolsuraj96-ME_BUILDOUT_XFLIX_REACT/
+        ../../coolsuraj96-ME_QKART_BACKEND/
+        ../../coolsuraj96-ME_QKART_FRONTEND_V2/
+        ../../coolsuraj96-ME_QTRIPDYNAMIC/
+        ../../disfo-frontend/
+        ../../geektrustAdminUI/
+        ../../mern2-jan-master/
+        ../../mern2/
+        ../../nodejs/
+        ../../package-lock.json
+        ../../package.json
+        ../../test/
